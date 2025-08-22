@@ -1,39 +1,30 @@
-## Introduction
+# Bits of Good – Dev Bootcamp Takehome (Spring 2025)
 
-Hello 👋 thank you for showing your interest in Bits of Good! This take home assessment will assess your basic web development skills. The bootcamp generally requires having some knowledge beforehand in HTML/CSS to be successful, so this assessment will serve as a reflection of your ability to work with HTML/CSS.
+## Live Site
+👉 [View on GitHub Pages](https://kudupidimeghana.github.io/dev-bootcamp-takehome-spr25/)
 
-We have provided a sample HTML/CSS boilerplate but feel free to customize this repository to your needs or create your own. Because this assessment is very open ended, there are many ways to complete this assessment. Our only rules are:
+## Repository
+👉 [View on GitHub](https://github.com/kudupidimeghana/dev-bootcamp-takehome-spr25)
 
-- Please use only vanilla HTML, CSS, and Javascript (optional)
-- Do not use any libraries or frameworks such as Bootstrap, Jquery, React, etc.
-- CSS files can be named anything
-- Please make sure to name the file `index.html`
-- Please deploy your completed assignment to [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) and share the link with us
+---
 
-To submit your project:
-- commit your code to GitHub (preferred) or another version control platform
-- share a link to your repository in our application
-- share a link to your GitHub Pages deployment in our application
+## About
+This is my take-home assessment for the **Bits of Good Dev Bootcamp (Spring 2025)**.  
+It demonstrates my skills in **HTML** and **CSS** through a simple, responsive personal info card.
 
-## Context
+### Features
+- Clean and minimal design
+- Styled card with my name, role, and tagline
+- Responsive layout (works on mobile and desktop)
 
-For this assessment you will introduce yourself to the Bits of Good team by creating a small info page! This page can be formatted and styled however you wish, but it should take the form of a "card". This take home assessment will be a way for us to gauge your knowledge of HTML and CSS.
+---
 
-## Basic Requirements
+## Tech Used
+- HTML5  
+- CSS3 (vanilla)
 
-In your card, include the following information:
+---
 
-- Name
-- Major
-- Year
-- Something you are passionate about related to social good
-- Where you're from (optional)
-
-## Above and Beyond (Optional)
-
-- Include animations using CSS or Javascript
-- Make your card interactive with buttons, text inputs, etc.
-
-## Sample Card
-
-![Sample Card](https://i.imgur.com/roVObwx.png)
+## Author
+👩‍💻 Meghana Kudupudi  
+Passionate about building impactful web applications for social good ✨
