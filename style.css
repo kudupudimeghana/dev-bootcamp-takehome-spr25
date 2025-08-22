@@ -17,12 +17,6 @@ body {
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
 
-.avatar {
-  border-radius: 50%;
-  width: 120px;
-  margin-bottom: 1rem;
-}
-
 h1 {
   font-size: 1.8rem;
   margin: 0.5rem 0;
